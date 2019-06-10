@@ -1,7 +1,7 @@
 # World-Happiness-Score
 World Happiness Score Visualizations
 
-## This project 
+## Motivation 
 ### r/dataisbeautiful - Battle 2019-06  
    [battle](https://www.reddit.com/r/dataisbeautiful/comments/bwocis/battle_dataviz_battle_for_the_month_of_june_2019/)  
    [post](https://www.reddit.com/r/dataisbeautiful/comments/bxm50z/oc_economy_health_freedom_and_happiness_by_country/)  
@@ -36,7 +36,7 @@ Original field names from Kaggle dataset were changed in excel as bellow:
     Photoshop
     Excel
     
-### Project
+## Project
   
 Variables score compared to happiness score:  
 ![Imgur](https://i.imgur.com/JJf2re7.png)  
@@ -77,11 +77,11 @@ Happiness Score:
 ![Imgur](https://i.imgur.com/dmqLaMj.png)  
 
 ### Ranking
-Made in Excel  
+Made with Excel  
 ![Imgur](https://i.imgur.com/fYj0xcX.png)  
 
 ### Submission
-Made in Photoshop  
+Made with Photoshop  
 ![Imgur](https://i.imgur.com/DmrnXxN.png)
 
 
